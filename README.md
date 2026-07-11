@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Abhay%20Mishra&fontSize=42&animation=twinkling&fontColor=ffffff)
@@ -23,7 +24,6 @@ const abhayMishra = {
     "India vs Afghanistan Match Prediction",
     "Dog vs Cat Classifier"
   ],
-  certifications: [], // none listed on profile
   status: "Focusing 🎯",
   openTo: ["Collaborating on ML/AI projects", "Learning Gen AI"]
 };
